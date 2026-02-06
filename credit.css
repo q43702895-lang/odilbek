@@ -73,3 +73,6 @@ nav a {
     text-decoration: none;
     color: #333;
 }
+button a {
+    text-decoration: none;
+}
